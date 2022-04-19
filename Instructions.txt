@@ -1,16 +1,16 @@
-First, fork this repository (this will make your own copy of it on your account). Clone the forked repository using GitHub Desktop.
+1) First, fork this repository (this will make your own copy of it on your account). Clone the forked repository using GitHub Desktop.
 
 
-Now, create a new text file in your repository named "<INSERT NAME>.txt", and add something to it (on your new repository).
+2) Now, create a new text file in your repository named "<INSERT NAME>.txt", and add something to it (on your new repository).
 
 
-Next, commit your changes, push your changes, and create a new branch (name it <INSERT NAME>) based on the current branch (likely called "main").
+3) Next, commit your changes, push your changes, and create a new branch (name it <INSERT NAME>) based on the current branch (likely called "main").
 
 
-In the new branch, add something else to your text file. Commit and push your changes.
+4) In the new branch, add something else to your text file. Commit and push your changes.
 
 
-Now, create a pull request to the branch you forked from to add your changes back to the original repository (johnwinward's git_good repo).
+5) Now, create a pull request to the branch you forked from to add your changes back to the original repository (johnwinward's git_good repo).
 
 
-Now, I will accept your pull request and your changes should be visible in the original repository. Epic!
+6) Now, I will accept your pull request and your changes should be visible in the original repository. Epic!
